@@ -1,0 +1,12 @@
+body {
+  background-color: #fafafa;
+  max-height: 100vh;
+}
+
+span.personal-info {
+ font-weight: bolder;
+}
+
+span.badge {
+  margin: 3px;
+}
